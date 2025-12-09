@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+torch
+torchvision
+numpy
+Pillow
+opencv-python-headless
+transformers
+librosa
+soundfile
+tqdm
+kaggle
+python-dateutil
+torchaudio
